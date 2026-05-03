@@ -194,7 +194,6 @@ After running the notebook, the project will generate:
 - Decision Tree confusion matrix.
 - Accuracy comparison table.
 - Accuracy comparison bar chart.
-- Sample patient prediction output.
 
 ## Conclusion
 
