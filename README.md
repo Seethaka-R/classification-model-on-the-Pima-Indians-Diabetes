@@ -181,8 +181,8 @@ Each code cell in the notebook has a markdown cell above it explaining what the 
 ## Expected Output
 
 ![Confusion matrix](report/confusion_matrix.png)
-![Decession Tree](report/DecessionTree.png)
-![comparison](report/comparison,png)
+![Decession Tree](report/Decession_tree.png)
+![comparison](report/comparison.png)
 
 After running the notebook, the project will generate:
 
